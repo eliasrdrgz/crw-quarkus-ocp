@@ -181,7 +181,7 @@ http://codeready-quarkus-demo.apps.cluster-york-b654.york-b654.openshiftworkshop
 
   ![create-stack-1](images/create-stack-1.PNG) 
 
-* Expand the "POST" operation by clicking on the word "POST". Within the context of the POST operation, you will see a textbox labeled "body". You will paste a JSON document into that textbox. The document can be found at https://raw.githubusercontent.com/DonSchenck/crw-quarkus-ocp/master/stack.json.
+* Expand the "POST" operation by clicking on the word "POST". Within the context of the POST operation, you will see a textbox labeled "body". You will paste a JSON document into that textbox. The document can be found at https://raw.githubusercontent.com/redhat-developer-demos/crw-quarkus-ocp/master/stack.json.
 
   ![create stack 2](images/create-stack-2.PNG)  
 
