@@ -6,4 +6,4 @@ This repo is related to a slide deck and a series of videos that will guide the 
 * Build and deploy some Quarkus code to OpenShift from CodeReady Workspaces
 
 ## Want to know more?
-Visit https://donschenck.github.io/crw-quarkus-ocp/
+Visit https://redhat-developer-demos.github.io/crw-quarkus-ocp/
